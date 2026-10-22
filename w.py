@@ -28,3 +28,6 @@ def l(a):
 
 s=input("enter : ")
 print(l(s))
+
+# ---------------------------- P3
+print("fourth")
