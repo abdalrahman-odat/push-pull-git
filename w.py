@@ -1,5 +1,5 @@
 # ---------------------------- P1
-print("hi")
+
 def even(a):
     c=0
     for i in a : 
@@ -31,3 +31,5 @@ print(l(s))
 
 # ---------------------------- P3
 print("fourth")
+
+print("the new line * ")
