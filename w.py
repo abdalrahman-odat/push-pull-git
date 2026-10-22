@@ -1,5 +1,5 @@
 # ---------------------------- P1
-
+print("hi")
 def even(a):
     c=0
     for i in a : 
