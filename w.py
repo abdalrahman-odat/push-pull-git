@@ -28,8 +28,12 @@ def l(a):
 
 s=input("enter : ")
 print(l(s))
-
 # ---------------------------- P3
 print("fourth")
 
 print("the new line * ")
+
+
+
+
+print(5,6,7,8,9,10)
