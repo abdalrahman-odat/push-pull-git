@@ -1,8 +1,8 @@
 # ---------------------------- P1
 
-def even(a):
+def even(c):
     c=0
-    for i in a : 
+    for i in c : 
         if i % 2 == 0 : 
             c+=i
     return c 
