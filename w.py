@@ -33,3 +33,7 @@ print(l(s))
 print("fourth")
 
 print("the new line * ")
+
+
+
+print(1,2,3,4,5)
